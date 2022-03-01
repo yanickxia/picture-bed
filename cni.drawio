@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T09:06:36.115Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="89229ooDCOpezn1PI1Ht" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T09:07:46.058Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="TjRH_05bhQ7IlrR3PX1J" version="15.0.3" type="github">
   <diagram id="QznHV2y_hJcCz-hNqc2l" name="Page-1">
     <mxGraphModel dx="1378" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="gIslRy5SEYikWLrdMrFY-2" value="POD/NS/ARG" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="100" width="340" height="380" as="geometry" />
+          <mxGeometry x="120" y="90" width="340" height="380" as="geometry" />
         </mxCell>
         <mxCell id="gIslRy5SEYikWLrdMrFY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="gIslRy5SEYikWLrdMrFY-1" target="gIslRy5SEYikWLrdMrFY-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gIslRy5SEYikWLrdMrFY-1" value="K8S" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="240" width="80" height="110" as="geometry" />
+          <mxGeometry x="160" y="230" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gIslRy5SEYikWLrdMrFY-3" value="HOST&lt;br&gt;宿主机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="450" width="50" height="30" as="geometry" />
+          <mxGeometry x="400" y="440" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gIslRy5SEYikWLrdMrFY-4" value="CNI&lt;br&gt;BIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="240" width="80" height="110" as="geometry" />
+          <mxGeometry x="350" y="230" width="80" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
